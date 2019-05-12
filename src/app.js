@@ -1,5 +1,5 @@
-const test = function() {
-  return "This is test frunction...";
+const app = function() {
+  return "This is App function...";
 };
 
-export default test;
+export default app;

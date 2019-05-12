@@ -1,5 +1,5 @@
-import test from "./src/app";
+import app from "./src/app";
 
-let res = test();
+let res = app();
 
 console.log(res);
